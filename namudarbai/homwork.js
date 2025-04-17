@@ -26,6 +26,12 @@ let sar3=['maiselyje','kibire','kiseneje','stalciuje','virtuveje'];
 console.log(sar3);
 let num2 =20;
 let num3=30;
+let a = 15;
+let b = 10;
+if (a > b) {
+    console.log(a>b);
+} 
+
 
 
 
